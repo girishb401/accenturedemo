@@ -1,3 +1,8 @@
 Hello World
 
 Hello New line .
+<<<<<<< HEAD
+=======
+
+Bengaluru
+>>>>>>> 5fc4ca321ac79235a0cdb951ac8b09f9f3cdf7f4
