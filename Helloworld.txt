@@ -2,3 +2,9 @@ Hello World
 
 Hello New line .
 
+<<<<<<< HEAD
+=======
+YEs
+
+NO
+>>>>>>> e2abdc3a792ca3424eb1acc4c21987e745d4a844
