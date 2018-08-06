@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello Benagaluru DDKNKNKNKSKJSKJS
-=======
-Hello Benagaluru DDKNKNKNKSKJSKJS
->>>>>>> e367f4efca423cad79ec63f4510a56f4ca14e179
